@@ -1,0 +1,44 @@
+/* 
+    Put your custom SCSS here! 
+    This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
+*/
+
+#home-title-box {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+#home-title-box .p-2 {
+    padding: 1.5rem !important;
+}
+
+#home-title-box .p-2 .display-4 {
+    font-family: "PT Serif", "PT Sans", sans-serif !important;
+}
+
+.btn-primary, .btn-success {
+    background-color: #000099 !important;
+    border-color: transparent !important;
+}
+
+:root {
+    --bs-green: #000099 !important;
+    --bs-teal: #000099 !important;
+}
+
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+    background-color: #000099 !important;
+}
+
+#title h1.mt-2 {
+    margin-top: 1.1rem !important;
+    font-family: "PT Serif", "PT Sans", sans-serif !important;
+}
+
+#scroll-to-top {
+    color: #000099;
+}
+
+footer {
+    display: none !important;
+}
