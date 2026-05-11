@@ -20,12 +20,12 @@ source-code: https://github.com/ucsdguardian/ucsdguardian.github.io
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "OpenDocs"
+title: "Guardpost"
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: "Open data and documents from The UCSD Guardian's newsroom."
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "OpenDocs is the open data and public records archive for The UCSD Guardian, UC San Diego's independent student newspaper since 1967."
+description: "Guardpost is the open data and public records archive for The UCSD Guardian, UC San Diego's independent student newspaper since 1967."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: "The UCSD Guardian"
 
